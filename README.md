@@ -1,4 +1,5 @@
-# nlp-withpython
+# nlp-textmining-with-python
+
 This is some task of Text Mining guide using python with a simple example
 
 1. Count Vectorizer (example)

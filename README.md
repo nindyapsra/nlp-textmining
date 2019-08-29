@@ -1,4 +1,4 @@
-# nlp-textmining-with-python
+# nlp-textmining-theory-with-python
 
 This is some task of Text Mining guide using python with a simple example
 
